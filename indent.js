@@ -45,3 +45,7 @@ console.log(validateCreditCard('4111111111111111')); // Walmart
 console.log(validateCreditCard('5500000000000004')); // Google
 console.log(validateCreditCard('340000000000009'));  // Ebay
 console.log(validateCreditCard('6011000000000004')); // Credit Union
+console.log(validateCreditCard('0111111111111110')); // Walmart
+console.log(validateCreditCard('2300000000000001')); // Google
+console.log(validateCreditCard('710000000000010'));  // Ebay
+console.log(validateCreditCard('5001000000000001')); // Credit Union
